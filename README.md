@@ -56,7 +56,7 @@ Git + GitHub – Repository & version control
 VS Code – IDE for development
 
 👥 Team Collaboration & Roles
-👩‍💻 P. Bhavya Sri Jyothi – Backend & Frontend Developer
+👩‍💻 P. Bhavya Sri Jyothi(Team Lead)– Backend & Frontend Developer
 
 Developed FastAPI backend APIs for Email, URL, Image, Audio, and Video detection
 
